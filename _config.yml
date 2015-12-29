@@ -1,14 +1,26 @@
-layout_spectrum: 0.1006127
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.005907593
 color:
   saturation: 0.1799632
   brandStrength: 0.6924757
-  lightness: 0.78255
+  rhythmicContrast: 0.3052184
   brandColors:
     - '#FBFBFF'
     - '#38311F'
     - '#864C98'
     - '#A5B3F3'
     - '#212B72'
-  rhythmicContrast: 0.3052184
-typography_spectrum: 0.06904245
+  lightness: 0.78255
+layout_spectrum: 0.9693877
 name: NextGen_Wales
